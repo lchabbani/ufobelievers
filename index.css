@@ -1,0 +1,90 @@
+body {  background: url('gifs/Dark-Night-Sky.jpg'); 
+background-attachment: fixed;;
+}
+
+.image {
+	padding: 50px;
+	position: absolute;
+}
+
+
+.image1 {
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 970px;
+	
+	
+}
+
+.image2 {
+	position: absolute;
+	margin-top: 700px;
+	margin-left: 400px;
+	
+
+}
+
+.image3 {
+	position: absolute;
+	margin-top:950px;
+	margin-left: 900px;
+	
+
+}
+
+.image4 {
+	position: absolute;
+	margin-top:1500px;
+	margin-left: 400px;
+	
+
+}
+
+.image5{
+	position: absolute;
+	margin-top:2050px;
+	margin-left: 350px;
+	
+
+}
+
+.image6{
+	position: absolute;
+	margin-top:3000px;
+	margin-left: 850px;
+	
+
+}
+
+.image7{
+	position: absolute;
+	margin-top:3400px;
+	margin-left: 330px;
+	
+
+}
+
+.image8{
+	position: absolute;
+	margin-top:3650px;
+	margin-left: 850px;
+	
+
+}
+
+
+.image9{
+	position: absolute;
+	margin-top:4290px;
+	margin-left: 900px;
+	
+
+}
+
+
+.container {
+
+	position: relative; 
+	left: 0; 
+	top: 0;
+}
